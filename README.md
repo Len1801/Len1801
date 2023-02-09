@@ -1,10 +1,5 @@
 ### Hi, i'm León. 👋
 
-https://avatars.githubusercontent.com/u/109310872?s=400&u=4a98f96dbb51f4ab6f86c1f72620b15b13835f49&v=4
-
-You can find me :
-- [Linkedin](http://linkedin.com/in/león-martinez-analista-programador-353164239]
-
 
 <!--
 **Len1801/Len1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
