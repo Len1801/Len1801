@@ -1,5 +1,9 @@
 ### Hi, i'm León. 👋
 
+You can find me :
+- [Linkedin](linkedin.com/in/león-martinez-analista-programador-353164239]
+- -[Email](leonmartinez1801@gmail.com)
+
 <!--
 **Len1801/Len1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
