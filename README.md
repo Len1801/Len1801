@@ -1,6 +1,6 @@
 ### Hi, i'm León. 👋
 
-!(https://user-images.githubusercontent.com/109310872/217857169-82324fd9-ec17-4de5-a37f-03c879468524.jpeg)[]
+![Foto](https://user-images.githubusercontent.com/109310872/217857169-82324fd9-ec17-4de5-a37f-03c879468524.jpeg)
 
 You can find me :
 - [Linkedin](http://linkedin.com/in/león-martinez-analista-programador-353164239]
