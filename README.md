@@ -50,7 +50,7 @@ Motivated and detail-oriented full-stack developer with a strong foundation in w
 
 ## 🎓 Education
 
-- **Programmer Analyst**  
+- **Code Analyst**  
   INACAP, Chile | *Mar 2020 – Jun 2023*  
 
 - **Business Administration**  
