@@ -29,7 +29,7 @@ Motivated and detail-oriented full-stack developer with a strong foundation in w
 
 ### Web Developer  
 **SbPay, Chile** | *Jan 2023 – Jul 2023*  
-- Designed UI/UX mockups and interfaces for large-scale call center applications.  
+- Interfaced, prototyped, and wireframed a large-scale digital payment platform for SbPay, enhancing user experience and transaction efficiency.  
 - Developed frontend components using AngularJS and SCSS.  
 - Collaborated in Agile workflows (daily stand-ups, grooming, sprint planning).  
 - Worked closely with stakeholders to gather requirements and enhance UI usability.  
