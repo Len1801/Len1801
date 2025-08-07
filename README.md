@@ -16,7 +16,7 @@ Motivated and detail-oriented full-stack developer with a strong foundation in w
 
 ## 🧠 Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, AngularJS, React.js  
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap, AngularJS, React.js  
 - **Backend:** Node.js, .NET Framework, Java, C++  
 - **Databases:** MongoDB, SQL  
 - **Tools:** GitHub, Heroku, JIRA, Microsoft Office  
