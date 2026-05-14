@@ -52,41 +52,20 @@ Motivated and detail-oriented full-stack developer with a strong foundation in w
 
 ## 💼 Experience
 
-### Web Developer — SbPay, Chile *(Jan 2023 – Jul 2023)*
+### Web Developer — SbPay, Chile
 - Prototyped and wireframed a large-scale digital payment platform, enhancing UX and transaction efficiency.
 - Built custom SCSS styling and developed UI components using Angular JS, Gulp, MongoDB, and Node.js.
 - Participated in daily Scrum stand-ups, grooming, and sprint planning sessions.
 - Collaborated with UI/API teams to address defects and integrate Angular JS into production.
 - Tracked tasks and defects using Jira, ensuring timely delivery of features and bug fixes.
 
-### Digitization Supervisor — Servicios ADG Limitada, Chile *(Oct 2020 – Dec 2022)*
+### Digitization Supervisor — Servicios ADG Limitada, Chile
 - Managed daily digitization activities ensuring quality control of accounting records.
 - Identified and corrected discrepancies, reporting findings to auditors.
 
-### Data Entry Specialist — Servicios ADG Limitada, Chile *(Apr 2019 – Oct 2020)*
+### Data Entry Specialist — Servicios ADG Limitada, Chile
 - Performed accurate data entry in the IPS database ensuring data integrity.
 - Reviewed and corrected previously digitized documents.
-
-
------------------------------------------------------------------------
-### Web Developer  
-**SbPay, Chile** | *Jan 2023 – Jul 2023*  
-- Interfaced, prototyped, and wireframed a large-scale digital payment platform for SbPay, enhancing user experience and transaction efficiency.  
-- Developed frontend components using AngularJS and SCSS.  
-- Collaborated in Agile workflows (daily stand-ups, grooming, sprint planning).  
-- Worked closely with stakeholders to gather requirements and enhance UI usability.  
-- Supported defect resolution and integration with backend services.
-
-### Digitization Supervisor  
-**Servicios ADG Limitada, Chile**  
-- Oversaw digitization of accounting records for political parties.  
-- Managed daily tasks and corrected discrepancies in documentation.  
-- Coordinated with auditors and ensured quality control.
-
-### Data Entry Clerk  
-**Servicios ADG Limitada, Chile**  
-- Entered IPS data and updated internal databases.  
-- Conducted quality assurance and corrections.
 
 ---
 
@@ -118,21 +97,3 @@ Motivated and detail-oriented full-stack developer with a strong foundation in w
 ## 📫 Let's Connect
 
 Feel free to reach out if you're interested in working together or want to chat about tech or ideas.
-
-
-
-
-<!--
-**Len1801/Len1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
