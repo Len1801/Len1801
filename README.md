@@ -83,7 +83,6 @@ Motivated and detail-oriented full-stack developer with a strong foundation in w
 
 | Project | Tech | Link |
 |---------|------|------|
-| 🌐 **Personal Portfolio** | Angular 17, TypeScript, SCSS, Vercel | [portfolio.lmessentialsllc.com](https://portfolio.lmessentialsllc.com) |
 | 🏢 **Nexum Property Services** | HTML5, CSS3, JavaScript | [View Repo](https://github.com/Len1801) |
 | 🎬 **GifExpert App** | React, JavaScript, Giphy API | [View Repo](https://github.com/Len1801/Curso-React-gif-expert) |
 | 🖥️ **Node REST Server** | Node.js, Express, JavaScript | [View Repo](https://github.com/Len1801/Curso-de-Node-Rest-Server-B-sico) |
