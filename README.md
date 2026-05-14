@@ -48,15 +48,6 @@ Motivated and detail-oriented full-stack developer with a strong foundation in w
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
 
-
----------------------------------------------------------------------
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap, AngularJS, React.js, Shopify  
-- **Backend:** Node.js, .NET Framework, Java, C++  
-- **Databases:** MongoDB, SQL  
-- **Tools:** GitHub, Heroku, JIRA, Microsoft Office  
-- **Operating Systems:** Linux, Windows  
-- **Languages:** Spanish (native), English (intermediate)  
-
 ---
 
 ## 💼 Experience
