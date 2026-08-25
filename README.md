@@ -78,19 +78,6 @@ Motivated and detail-oriented full-stack developer with a strong foundation in w
   Instituto Tecnología Rodolfo Loero, Venezuela  
 
 ---
-
-## 📎 Projects
-
-| Project | Tech | Link |
-|---------|------|------|
-| 🏢 **Nexum Property Services** | HTML5, CSS3, JavaScript | [View Repo](https://github.com/Len1801) |
-| 🎬 **GifExpert App** | React, JavaScript, Giphy API | [View Repo](https://github.com/Len1801/Curso-React-gif-expert) |
-| 🖥️ **Node REST Server** | Node.js, Express, JavaScript | [View Repo](https://github.com/Len1801/Curso-de-Node-Rest-Server-B-sico) |
-| 💳 **LM Essentials** | HTML, SCSS, JavaScript | [View Repo](https://github.com/Len1801/lm-essentials) |
-
-- 🔗 [Inventory Management System](https://github.com/Len1801/inventory-system) – Full-stack app built with Node.js and React.  
-- 🔗 [Task Tracker App](https://github.com/Len1801/task-tracker) – Frontend app using Angular and Firebase.  
-
 ---
 
 ## 📫 Let's Connect
