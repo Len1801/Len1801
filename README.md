@@ -76,7 +76,7 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 
 - **Business Administration**  
   Instituto Tecnología Rodolfo Loero, Venezuela  
-
+---
 ---
 ---
 
