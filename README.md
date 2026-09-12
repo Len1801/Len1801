@@ -49,6 +49,7 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
 
 ---
+---
 
 ## 💼 Experience
 
@@ -68,6 +69,7 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 - Reviewed and corrected previously digitized documents.
 
 ---
+---
 
 ## 🎓 Education
 
@@ -77,6 +79,7 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 - **Business Administration**  
   Instituto Tecnología Rodolfo Loero, Venezuela  
 
+---
 ---
 
 ## 📫 Let's Connect
