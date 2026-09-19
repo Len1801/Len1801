@@ -13,6 +13,7 @@
 Motivated and detail oriented fullstack developer with a strong foundation in web technologies including Angular, Node.js, React, and MongoDB. Passionate about creating efficient and scalable applications. Experienced in Agile environments (Scrum), I thrive in collaborative settings where innovative thinking and continuous learning are valued.
 
 ---
+---
 
 ## 🧠 Skills
 
