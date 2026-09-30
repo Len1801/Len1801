@@ -68,6 +68,8 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 - Reviewed and corrected previously digitized documents.
 - 
 ---
+---
+
 
 ## 🎓 Education
 
@@ -77,6 +79,7 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 - **Business Administration**  
   Instituto Tecnología Rodolfo Loero, Venezuela  
 
+---
 ---
 
 ## 📫 Let's Connect
