@@ -51,6 +51,7 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
 
 ---
+---
 
 ## 💼 Experience
 
@@ -69,6 +70,8 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 - Performed accurate data entry in the IPS database ensuring data integrity.
 - Reviewed and corrected previously digitized documents.
 - 
+
+---
 ---
 
 
