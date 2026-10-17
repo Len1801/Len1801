@@ -79,6 +79,7 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
   Instituto Tecnología Rodolfo Loero, Venezuela  
 
 ---
+---
 
 ## 📫 Let's Connect
 
