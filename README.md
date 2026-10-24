@@ -72,6 +72,7 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 - 
 
 ---
+---
 
 ## 🎓 Education
 
