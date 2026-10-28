@@ -77,9 +77,8 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
   INACAP, Chile | *Mar 2020 – Jun 2023*  
 
 - **Business Administration**  
-  Instituto Tecnología Rodolfo Loero, Venezuela  
-
----
+  Instituto Tecnología Rodolfo Loero, Venezuela
+  
 ---
 
 ## 📫 Let's Connect
