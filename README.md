@@ -66,7 +66,8 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 ### Data Entry Specialist — Servicios ADG Limitada, Chile
 - Performed accurate data entry in the IPS database ensuring data integrity.
 - Reviewed and corrected previously digitized documents.
-  
+
+---
 ---
 
 ## 🎓 Education
