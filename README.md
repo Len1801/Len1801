@@ -68,6 +68,7 @@ Motivated and detail oriented fullstack developer with a strong foundation in we
 - Reviewed and corrected previously digitized documents.
 
 ---
+---
 
 ## 🎓 Education
 
